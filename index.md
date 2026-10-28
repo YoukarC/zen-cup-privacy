@@ -26,10 +26,10 @@ Everything is computed on the watch: the watch faces have no network access, no 
 - Zen Cup only, and only if you turn on « Pause when stressed »: the watch's stress score, to invite you to a pause after a long stressful stretch. It is never displayed nor kept.
 
 ### What the watch faces keep
-Only which of today's pauses you have taken, with today's date and your pause times (and, in Zen Cup, when the last stress pause was offered), stored on the watch so that the scene stays the same until midnight. It is reset every day and never sent anywhere.
+Only which of today's pauses you have taken, with today's date and your pause times (and, in Zen Cup, when the last stress pause was offered), stored on the watch so that the scene stays the same until midnight. It is reset every day and never sent anywhere. The watch also keeps one random number, drawn the first time the watch face starts, so that your phrases follow their own order rather than the same order as everyone else's. It identifies nothing and is never sent anywhere.
 
 ### Breathing
-Touching and holding the companion (or the pause invitation) opens Garmin's own Stress screen, from where Garmin's breathing exercise starts; in Zen Cup you can instead choose « Breathe here », a guided breath drawn on the watch face itself. Touching and holding the steps, heart rate or battery opens Garmin's own screen for that value. The watch face does not read, record or receive anything from these screens or exercises.
+Touching and holding the companion (or the pause invitation) starts « Breathe here », a guided breath drawn on the watch face itself; in the settings you can instead open Garmin's own Stress screen, from where Garmin's breathing exercise starts, or just mark the pause. Touching and holding the steps, heart rate or battery opens Garmin's own screen for that value. The watch face does not read, record or receive anything from these screens or exercises.
 
 ### Settings
 Your settings (scene, companion, phrase theme, phrase gender, phrase rotation, pause times, displayed values, date and time formats, animations) are stored by Garmin's Connect IQ system on your watch and in the Connect IQ app, under Garmin's own privacy policy.
@@ -56,10 +56,10 @@ Tout est calculé sur la montre : les cadrans n'ont ni accès réseau, ni compte
 - Zen Cup seulement, et seulement si tu actives « Pause en cas de stress » : le score de stress de la montre, pour t'inviter à une pause après un long moment de stress. Il n'est jamais affiché ni conservé.
 
 ### Ce que les cadrans gardent
-Seulement les pauses du jour que tu as faites, avec la date du jour et tes heures de pause (et, dans Zen Cup, l'heure de la dernière pause proposée pour le stress), enregistrées sur la montre pour que la scène reste la même jusqu'à minuit. C'est remis à zéro chaque jour et jamais envoyé.
+Seulement les pauses du jour que tu as faites, avec la date du jour et tes heures de pause (et, dans Zen Cup, l'heure de la dernière pause proposée pour le stress), enregistrées sur la montre pour que la scène reste la même jusqu'à minuit. C'est remis à zéro chaque jour et jamais envoyé. La montre garde aussi un nombre tiré au hasard au premier lancement du cadran, pour que tes phrases suivent leur propre ordre et pas le même que celui de tout le monde. Il n'identifie rien et n'est jamais envoyé.
 
 ### Respiration
-Maintenir le doigt sur le compagnon (ou sur l'invitation à la pause) ouvre l'écran Stress de Garmin, d'où se lance l'exercice de respiration de Garmin ; dans Zen Cup, tu peux choisir à la place « Respirer ici », une respiration guidée dessinée sur le cadran lui-même. Maintenir le doigt sur les pas, la fréquence cardiaque ou la batterie ouvre l'écran Garmin de cette valeur. Le cadran ne lit, n'enregistre et ne reçoit rien de ces écrans ni de ces exercices.
+Maintenir le doigt sur le compagnon (ou sur l'invitation à la pause) lance « Respirer ici », une respiration guidée dessinée sur le cadran lui-même ; dans les réglages, tu peux plutôt ouvrir l'écran Stress de Garmin, d'où se lance l'exercice de respiration de Garmin, ou juste noter la pause. Maintenir le doigt sur les pas, la fréquence cardiaque ou la batterie ouvre l'écran Garmin de cette valeur. Le cadran ne lit, n'enregistre et ne reçoit rien de ces écrans ni de ces exercices.
 
 ### Réglages
 Tes réglages (scène, compagnon, thème des phrases, accord des phrases, rythme des phrases, heures des pauses, valeurs affichées, formats de date et d'heure, animations) sont enregistrés par le système Connect IQ de Garmin sur ta montre et dans l'appli Connect IQ, selon la politique de confidentialité de Garmin.
